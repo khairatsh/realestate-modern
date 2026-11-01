@@ -338,7 +338,7 @@
 }
 
 .btn-auction {
-    background: var(--auction-dark);
+    background: var(--auction-teal);
     color: var(--paper);
 }
 
@@ -352,7 +352,8 @@
 
 .btn-auction-outline {
     border-color: var(--auction-line-strong);
-    color: var(--auction-dark);
+    color: var(--paper);
+    background: var(--auction-dark);
 }
 
 .btn-auction-outline::before {

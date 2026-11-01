@@ -300,7 +300,7 @@
 }
 
 .btn-whatsapp {
-    background: var(--auction-dark);
+    background: var(--auction-teal);
     color: var(--paper);
 }
 
@@ -313,7 +313,7 @@
 }
 
 .btn-call {
-    background: var(--auction-dark);
+    background: var(--auction-teal);
     color: var(--paper);
 }
 

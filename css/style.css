@@ -364,7 +364,6 @@ p {
     font-size: 0.95rem;
     font-weight: 500;
     line-height: 1;
-    color: var(--ink);
     border: 1px solid transparent;
     border-radius: 0;
     overflow: hidden;
